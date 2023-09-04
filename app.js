@@ -30,7 +30,7 @@ class Persona {
   ataquePersona1Element.textContent = persona1.ataque;
   defensaPersona1Element.textContent = persona1.defensa;
 
-  /////
+  ///// 
   setTimeout(function () {
     let seguirJugando = true;
   
