@@ -1,0 +1,17 @@
+body{
+    background-image: url("img/fondoBosque.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+.persona1{
+    background-color: antiquewhite;
+    width: 22%;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding-left: 1rem;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serifS;
+}
